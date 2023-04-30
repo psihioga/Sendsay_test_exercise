@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T23:23:13.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0 (Edition Yx GX)" etag="b-SFZKTiORlJHDouDtzg" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T23:24:38.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0 (Edition Yx GX)" etag="xaDeha1G8QQ3lko1NQNL" version="21.2.3" type="github">
   <diagram name="Страница 1" id="PQh_qmmvywfrW51yR4oF">
     <mxGraphModel dx="1195" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zuYLMpL7GHM8OgSiP0pF-6" value="Клиент" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="100" height="100" as="geometry" />
+          <mxGeometry x="496.25" y="100" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zuYLMpL7GHM8OgSiP0pF-7" value="3" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="zuYLMpL7GHM8OgSiP0pF-6">
           <mxGeometry width="30" height="30" relative="1" as="geometry">
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zuYLMpL7GHM8OgSiP0pF-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="100" width="115" height="80" as="geometry" />
+          <mxGeometry x="250" y="100" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zuYLMpL7GHM8OgSiP0pF-26" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="zuYLMpL7GHM8OgSiP0pF-25">
           <mxGeometry width="115" height="80" as="geometry" />
@@ -190,6 +190,17 @@
         </mxCell>
         <mxCell id="zuYLMpL7GHM8OgSiP0pF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="zuYLMpL7GHM8OgSiP0pF-26" target="zuYLMpL7GHM8OgSiP0pF-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=67.5;entryPerimeter=0;" edge="1" parent="1" source="zuYLMpL7GHM8OgSiP0pF-26" target="zuYLMpL7GHM8OgSiP0pF-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="480" as="sourcePoint" />
+            <mxPoint x="540" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-59" value="Счет на оплату" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zuYLMpL7GHM8OgSiP0pF-58">
+          <mxGeometry x="0.1982" y="2" relative="1" as="geometry">
+            <mxPoint x="-10" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
