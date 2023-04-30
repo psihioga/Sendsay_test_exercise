@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T19:14:58.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0 (Edition Yx GX)" version="21.2.1" etag="94s0HiENzzvuhW0Dy7nI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T20:49:00.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0 (Edition Yx GX)" etag="TnjFbpliNiWyjCraEaQd" version="21.2.3" type="github">
   <diagram name="Страница 1" id="PQh_qmmvywfrW51yR4oF">
-    <mxGraphModel>
+    <mxGraphModel dx="472" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-2" value="Диспетчер" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-3" value="1" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="zuYLMpL7GHM8OgSiP0pF-2">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-4" value="Водитель" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-5" value="2" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="zuYLMpL7GHM8OgSiP0pF-4">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-6" value="Клиент" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zuYLMpL7GHM8OgSiP0pF-7" value="3" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="zuYLMpL7GHM8OgSiP0pF-6">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
